@@ -1,0 +1,5 @@
+com\spotifydata\demo\repositories\BookRepository.class
+com\spotifydata\demo\DemoApplication.class
+com\spotifydata\demo\entities\Book.class
+com\spotifydata\demo\controller\TheController.class
+com\spotifydata\demo\services\BookService.class
